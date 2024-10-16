@@ -1,8 +1,3 @@
-"""
-15-110 Hw6 - Battleship Project
-Name: Alexander Torres Vivaldo
-AndrewID: atorresv
-"""
 
 
 project = "Battleship" # don't edit this
